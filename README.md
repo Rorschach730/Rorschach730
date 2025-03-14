@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://autofelix.blog.csdn.net">
     <img src="https://img.shields.io/badge/CSDN Page View-125K-E65A65.svg" alt="" title="Python_AI的csdn" />
 </a>
-<a href="https://wakatime.com/@01a604ee-bda6-4846-8ccd-5dcca8f9975f"><img src="https://wakatime.com/badge/user/01a604ee-bda6-4846-8ccd-5dcca8f9975f.svg" alt="Total time coded since Jan 4 2021" /></a>
+<a href="https://wakatime.com/@01a604ee-bda6-4846-8ccd-5dcca8f9975f"><img src="https://wakatime.com/badge/user/01a604ee-bda6-4846-8ccd-5dcca8f9975f.svg" alt="Total time coded since Mar 14 2025" /></a>
 <br/>
 <br/>
 <br/>
