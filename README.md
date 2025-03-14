@@ -62,8 +62,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Rorschach730/count
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=yellow" />
-<a href="https://github.com/Rorschach730"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/weixin_42818797?type=blog"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<a href="https://github.com/Rorschach730"><img src="https://img.shields.io/badge/GitHub-Rorschach730-blue?logo=github" /></a>
+<a href="https://blog.csdn.net/weixin_42818797?type=blog"><img src="https://img.shields.io/badge/CSDN-weixin_42818797-red" /></a>
 <img src="https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq" />
 <img href="mailto:1027559304@qq.com" src="https://img.shields.io/badge/1027559304@qq.com-D14836?logo=gmail&logoColor=white" />
 </p>
