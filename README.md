@@ -55,7 +55,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Rorschach730/count
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,pycharm,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,c++,java,pytorch,git,pycharm,mysql" />
   </a>
 </p>
 
