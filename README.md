@@ -55,17 +55,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Rorschach730/count
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,pycharm,mysql" />
   </a>
 </p>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
-<a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
-<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
-<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+<a href="https://github.com/Rorschach730"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
+<a href="https://blog.csdn.net/weixin_42818797?type=blog"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<img src="https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq" />
+<img href="mailto:1027559304@qq.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
 
