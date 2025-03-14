@@ -100,10 +100,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Rorschach730/count
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeeFL&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
