@@ -1,67 +1,55 @@
-<p align="center">
-  <a href="https://github.com/Rorschach730">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22)%3B%E5%8E%9F%E6%9D%A5%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%E9%87%8C,%E6%89%80%E6%9C%89%E7%9A%84%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87!&center=true&size=27" alt="typing" />
-  </a>
-</p>
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22)%3B%E5%8E%9F%E6%9D%A5%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%E9%87%8C,%E6%89%80%E6%9C%89%E7%9A%84%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87!&center=true&size=27)](https://github.com/Rorschach730)
 
 ---
 
-## 👨‍💻 whoami
+## 👨‍💻 about me
 
 json
 {
   "name": "Rorschach",
   "role": "developer",
-  "status": "actively_questioning_life_choices",
-  "languages": ["Chinese", "English", "Python", "C++", "maybe Rust one day"],
+  "languages": ["Chinese", "English", "Python", "C++"],
   "currently": {
     "learning": "how to name variables properly",
     "reading": "stack traces at 2am",
     "drinking": "tea. always tea."
   },
-  "funFact": "I once fixed a bug by deleting 200 lines. Best day ever.",
+  "fun_fact": "I once fixed a bug by deleting 200 lines. Best day ever.",
   "motto": "// TODO: find a better motto"
 }
 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ tech stack
 
-```text
-// tools I wield · bugs I breed · features I ship
-```
+![python](https://skillicons.dev/icons?i=python)
+![c](https://skillicons.dev/icons?i=c)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![java](https://skillicons.dev/icons?i=java)
+![pytorch](https://skillicons.dev/icons?i=pytorch)
+![git](https://skillicons.dev/icons?i=git)
+![pycharm](https://skillicons.dev/icons?i=pycharm)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![linux](https://skillicons.dev/icons?i=linux)
+![docker](https://skillicons.dev/icons?i=docker)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,pycharm,mysql,vscode,linux,docker" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/methodology-meme--driven-pink?style=flat-square" />
-  <img src="https://img.shields.io/badge/powered_by-%F0%9F%8D%B5_tea-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/bugs_created-countless-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/bugs_fixed-some_of_them-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/code_reviews-%F0%9F%A4%94_lgtm-yellow?style=flat-square" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![b1](https://img.shields.io/badge/methodology-meme--driven-pink?style=flat-square)
+![b2](https://img.shields.io/badge/powered_by-%F0%9F%8D%B5_tea-green?style=flat-square)
+![b3](https://img.shields.io/badge/bugs_fixed-some_of_them-blue?style=flat-square)
+![b4](https://img.shields.io/badge/code_reviews-%F0%9F%A4%94_lgtm-yellow?style=flat-square)
 
 ---
 
-## 🚧 Projects
+## 📊 github stats
 
-```text
-// what I hack on when I'm not making coffee
-```
+![stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🚧 projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -72,24 +60,24 @@ json
 
 ---
 
-## 😹 Fun Zone
+## 😹 fun zone
 
 ```c
-/* ⚠ WARNING: dad jokes ahead */
+/* WARNING: dad jokes ahead */
 
 #include <iostream>
 
 class Developer {
 public:
     static bool doesCodeWork() {
-        return false;  // it's not a bug, it's an undocumented feature
+        return false;  // not a bug, undocumented feature
     }
 };
 
 int main() {
     std::cout << "Why do programmers prefer dark mode?" << std::endl;
     std::cout << "Because light attracts bugs!" << std::endl;
-    return 0;  // I promise the segfault was not my fault
+    return 0;  // segfault was not my fault
 }
 ```
 
@@ -110,38 +98,13 @@ int main() {
 
 ---
 
-## 📬 $ zhuanz --help
+## 📬 contact
 
-```text
-USAGE:
-  zhuanz [OPTIONS] <message>
+- 📧 **Email:** [1027559304@qq.com](mailto:1027559304@qq.com)
+- 📝 **Blog:** [blog.csdn.net/weixin_42818797](https://blog.csdn.net/weixin_42818797)
+- 💻 **GitHub:** [github.com/Rorschach730](https://github.com/Rorschach730)
 
-OPTIONS:
-  --email      📧 1027559304@qq.com
-  --blog       📝 https://blog.csdn.net/weixin_42818797
-  --github     💻 github.com/Rorschach730
-
-EXAMPLES:
-  $ zhuanz --collaborate "let's build something unnecessarily complex"
-  $ zhuanz --chat     "tabs > spaces, fight me"
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; especially at 3am deploys.
-```
-
-<p align="center">
-  <a href="https://github.com/Rorschach730">
-    <img src="https://img.shields.io/badge/GitHub-Rorschach730-blue?logo=github&style=flat-square" />
-  </a>
-  <a href="https://blog.csdn.net/weixin_42818797">
-    <img src="https://img.shields.io/badge/CSDN-weixin__42818797-red?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq&style=flat-square" />
-  <a href="mailto:1027559304@qq.com">
-    <img src="https://img.shields.io/badge/Email-1027559304@qq.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square" />
-</p>
+![views](https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square)
 
 ---
 
@@ -159,6 +122,6 @@ but WITHOUT ANY WARRANTY; especially at 3am deploys.
 在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20your%20code%20compile%20on%20the%20first%20try&descAlign=50&descSize=25&descAlignY=40&animation=twinkling" />
-</p>
+---
+
+> *May your code compile on the first try 🍀*
