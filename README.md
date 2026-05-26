@@ -8,7 +8,7 @@
 
 ## 👨‍💻 whoami
 
-```json
+json
 {
   "name": "Rorschach",
   "role": "developer",
@@ -22,7 +22,7 @@
   "funFact": "I once fixed a bug by deleting 200 lines. Best day ever.",
   "motto": "// TODO: find a better motto"
 }
-```
+
 
 ---
 
