@@ -1,94 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180">
   <defs>
     <style>
       @keyframes shakeX {
         0%, 100% { transform: translateX(0); }
-        10%  { transform: translateX(-1.5px); }
-        20%  { transform: translateX(1.2px); }
-        30%  { transform: translateX(-1.8px); }
-        40%  { transform: translateX(2px); }
-        50%  { transform: translateX(-1px); }
-        60%  { transform: translateX(1.5px); }
-        70%  { transform: translateX(-2px); }
-        80%  { transform: translateX(0.8px); }
-        90%  { transform: translateX(-0.5px); }
+        10% { transform: translateX(-1.2px); }
+        20% { transform: translateX(1px); }
+        30% { transform: translateX(-1.5px); }
+        40% { transform: translateX(1.5px); }
+        50% { transform: translateX(-0.8px); }
+        60% { transform: translateX(1.2px); }
+        70% { transform: translateX(-1.8px); }
+        80% { transform: translateX(0.6px); }
+        90% { transform: translateX(-0.4px); }
+      }
+      @keyframes glitchRed {
+        0%, 90%, 100% { opacity: 0; transform: translateX(0); }
+        91% { opacity: 0.2; transform: translateX(-3px); }
+        93% { opacity: 0; transform: translateX(0); }
+        94% { opacity: 0.2; transform: translateX(2px); }
+        96% { opacity: 0; transform: translateX(0); }
       }
       @keyframes glitchCyan {
-        0%, 90%, 100% { opacity: 0; transform: translateX(0); }
-        91%  { opacity: 0.18; transform: translateX(-4px); }
-        93%  { opacity: 0; transform: translateX(0); }
-        94%  { opacity: 0.18; transform: translateX(3px); }
-        96%  { opacity: 0; transform: translateX(0); }
-      }
-      @keyframes glitchPink {
         0%, 92%, 100% { opacity: 0; transform: translateX(0); }
-        93%  { opacity: 0.18; transform: translateX(3px); }
-        95%  { opacity: 0; transform: translateX(0); }
-        97%  { opacity: 0.18; transform: translateX(-3px); }
-        99%  { opacity: 0; transform: translateX(0); }
+        93% { opacity: 0.15; transform: translateX(2px); }
+        95% { opacity: 0; transform: translateX(0); }
+        97% { opacity: 0.15; transform: translateX(-3px); }
+        99% { opacity: 0; transform: translateX(0); }
       }
-      @keyframes scanlineMove {
-        0%   { transform: translateY(-10px); opacity: 0; }
-        10%  { opacity: 0.04; }
-        90%  { opacity: 0.04; }
-        100% { transform: translateY(220px); opacity: 0; }
+      @keyframes scanline {
+        0%   { transform: translateY(-5px); opacity: 0; }
+        10%  { opacity: 0.05; }
+        90%  { opacity: 0.05; }
+        100% { transform: translateY(190px); opacity: 0; }
       }
-      @keyframes pulseGlow {
-        0%, 100% { opacity: 0.25; }
-        50% { opacity: 0.45; }
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.6; }
       }
-      .main    { animation: shakeX 0.25s ease-in-out infinite; }
+      @keyframes dashMove {
+        0% { stroke-dashoffset: 800; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .shake   { animation: shakeX 0.22s ease-in-out infinite; }
+      .red     { animation: glitchRed 5s ease-in-out infinite; }
       .cyan    { animation: glitchCyan 5s ease-in-out infinite; }
-      .pink    { animation: glitchPink 5s ease-in-out infinite; }
-      .scan    { animation: scanlineMove 7s linear infinite; }
-      .glow    { animation: pulseGlow 3s ease-in-out infinite; }
-      .mono    { font-family: 'Courier New', 'Menlo', 'Monaco', 'Consolas', monospace;
-                 font-size: 11px; }
+      .scan    { animation: scanline 6s linear infinite; }
+      .glow    { animation: glowPulse 3s ease-in-out infinite; }
+      .frame   { animation: dashMove 8s linear infinite; }
     </style>
   </defs>
 
-  <!-- Deep dark background -->
-  <rect width="900" height="210" fill="#0A0A0A" rx="6"/>
+  <!-- Background -->
+  <rect width="800" height="180" fill="#000000" rx="4"/>
 
-  <!-- Glitch shadow: cyan -->
-  <text x="450" y="30" text-anchor="middle" class="mono cyan" fill="#67E8F9" opacity="0">
-    <tspan x="450" dy="0">╔══════════════════════════════════════════════════════════╗</tspan>
-    <tspan x="450" dy="21">║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██████╔╝██║   ██║██████╔╝███████╗██║     ███████║   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██║   ██║██╔══██╗╚════██║██║     ██╔══██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██║  ██║╚██████╔╝██║  ██║███████║╚██████╗██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ║</tspan>
-    <tspan x="450" dy="21">╚══════════════════════════════════════════════════════════╝</tspan>
+  <!-- Decorative frame: dashed moving line -->
+  <rect x="15" y="12" width="770" height="156" fill="none" rx="4"
+        stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="12 8"
+        class="frame" opacity="0.5"/>
+
+  <!-- Inner solid frame glow -->
+  <rect x="20" y="17" width="760" height="146" fill="none" rx="3"
+        stroke="#FBBF24" stroke-width="1" class="glow"/>
+
+  <!-- Horizontal accent lines -->
+  <line x1="40" y1="35" x2="760" y2="35" stroke="#F59E0B" stroke-width="0.8" opacity="0.4"/>
+  <line x1="40" y1="145" x2="760" y2="145" stroke="#F59E0B" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Corner diamonds -->
+  <polygon points="30,35 35,30 40,35 35,40" fill="#FBBF24" opacity="0.6"/>
+  <polygon points="770,35 775,30 780,35 775,40" fill="#FBBF24" opacity="0.6"/>
+  <polygon points="30,145 35,140 40,145 35,150" fill="#FBBF24" opacity="0.6"/>
+  <polygon points="770,145 775,140 780,145 775,150" fill="#FBBF24" opacity="0.6"/>
+
+  <!-- Glitch layer: red offset -->
+  <text x="400" y="112" text-anchor="middle" class="red" opacity="0"
+        font-family="'Courier New', 'Menlo', 'Monaco', monospace"
+        font-size="52" font-weight="bold" letter-spacing="8"
+        fill="#EF4444">
+    R O R S C H A C H
   </text>
 
-  <!-- Glitch shadow: pink -->
-  <text x="450" y="30" text-anchor="middle" class="mono pink" fill="#F472B6" opacity="0">
-    <tspan x="450" dy="0">╔══════════════════════════════════════════════════════════╗</tspan>
-    <tspan x="450" dy="21">║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██████╔╝██║   ██║██████╔╝███████╗██║     ███████║   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██║   ██║██╔══██╗╚════██║██║     ██╔══██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██║  ██║╚██████╔╝██║  ██║███████║╚██████╗██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ║</tspan>
-    <tspan x="450" dy="21">╚══════════════════════════════════════════════════════════╝</tspan>
+  <!-- Glitch layer: cyan offset -->
+  <text x="400" y="112" text-anchor="middle" class="cyan" opacity="0"
+        font-family="'Courier New', 'Menlo', 'Monaco', monospace"
+        font-size="52" font-weight="bold" letter-spacing="8"
+        fill="#67E8F9">
+    R O R S C H A C H
   </text>
 
-  <!-- Main text: Hermes violet, horizontal shake only -->
-  <text x="450" y="30" text-anchor="middle" class="mono main" fill="#A78BFA">
-    <tspan x="450" dy="0">╔══════════════════════════════════════════════════════════╗</tspan>
-    <tspan x="450" dy="21">║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██████╔╝██║   ██║██████╔╝███████╗██║     ███████║   ║</tspan>
-    <tspan x="450" dy="21">║   ██╔══██╗██║   ██║██╔══██╗╚════██║██║     ██╔══██║   ║</tspan>
-    <tspan x="450" dy="21">║   ██║  ██║╚██████╔╝██║  ██║███████║╚██████╗██║  ██║   ║</tspan>
-    <tspan x="450" dy="21">║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ║</tspan>
-    <tspan x="450" dy="21">╚══════════════════════════════════════════════════════════╝</tspan>
+  <!-- Main text: gold, shaking -->
+  <text x="400" y="112" text-anchor="middle" class="shake"
+        font-family="'Courier New', 'Menlo', 'Monaco', monospace"
+        font-size="52" font-weight="bold" letter-spacing="8"
+        fill="#FBBF24">
+
+    R O R S C H A C H
   </text>
 
-  <!-- Scanline overlay -->
-  <rect x="0" y="0" width="900" height="2.5" class="scan" fill="#A78BFA" opacity="0"/>
+  <!-- Scanline -->
+  <rect x="0" y="0" width="800" height="2" class="scan" fill="#FBBF24" opacity="0"/>
 
-  <!-- Pulsing border glow -->
-  <rect x="0" y="0" width="900" height="210" fill="none" rx="6" stroke="#8B5CF6" stroke-width="1.5" class="glow"/>
+  <!-- Subtle noise grain overlay (optional, simple version) -->
+  <rect x="0" y="0" width="800" height="180" fill="url(#noise)" opacity="0.03"/>
 </svg>
