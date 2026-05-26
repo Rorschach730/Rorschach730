@@ -4,58 +4,43 @@
 
 ---
 
-## About Me
-
-- **Name:** Rorschach
-- **Role:** Developer
-- **Languages:** Chinese, English, Python, C++
-- **Learning:** How to name variables properly
-- **Reading:** Stack traces at 2am
-- **Fuel:** Tea. Always tea.
-- **Fun Fact:** I once fixed a bug by deleting 200 lines. Best day ever.
+> *A developer fueled by tea and questionable life choices. I write Python, break C++, and name variables like it's a performance art.*
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 
 ---
 
-## Projects
+## 🚧 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [flow_matching](https://github.com/Rorschach730/flow_matching) | Flow Matching | Python |
-| [JiT-main](https://github.com/Rorschach730/JiT-main) | JiT Project | Python |
-| [tuijianxitong](https://github.com/Rorschach730/tuijianxitong) | Recommendation System | Python |
-| [Starter](https://github.com/Rorschach730/Starter) | PaddlePaddle Bootcamp | Python |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [flow_matching](https://github.com/Rorschach730/flow_matching) | Flow Matching experiments | ![Stars](https://img.shields.io/github/stars/Rorschach730/flow_matching?style=flat-square) |
+| [JiT-main](https://github.com/Rorschach730/JiT-main) | JiT project | ![Stars](https://img.shields.io/github/stars/Rorschach730/JiT-main?style=flat-square) |
+| [tuijianxitong](https://github.com/Rorschach730/tuijianxitong) | Recommendation system | ![Stars](https://img.shields.io/github/stars/Rorschach730/tuijianxitong?style=flat-square) |
 
 ---
 
-## Fun Zone
+## 😹 Fun Zone
 
-> Why do programmers prefer dark mode?
+> *"Why do programmers prefer dark mode?"*
 >
-> Because light attracts bugs!
+> *"Because light attracts bugs."*
 
 ```
           ／＞    フ
@@ -68,20 +53,21 @@
   | (￣ヽ＿_ヽ_)__)
   ＼二つ
 
-  this cat has reviewed my code and found 0 issues
-  (because cats don't understand C++)
+  this cat reviewed my code → 0 issues found
+  (cats don't understand C++ so take it with a grain of salt)
 ```
 
 ---
 
-## Contact
+## 📬 Contact
 
 - **Email:** [1027559304@qq.com](mailto:1027559304@qq.com)
-- **Blog:** [blog.csdn.net](https://blog.csdn.net/weixin_42818797)
+- **Blog:** [weixin_42818797](https://blog.csdn.net/weixin_42818797)
 - **GitHub:** [github.com/Rorschach730](https://github.com/Rorschach730)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square)
+![QQ](https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square)
 
 ---
 
-> *May your code compile on the first try, and your bugs be features in disguise*
+> *May your code compile on the first try, and your bugs be features in disguise 🍀*
