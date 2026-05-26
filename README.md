@@ -1,16 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════╗
-  ║  🐱 rorschach@github:~$                            ║
-  ║  ────────────────────────────────────────────────   ║
-  ║  OS:       M1 MacBook Pro · macOS 15.x              ║
-  ║  Kernel:   brain v27.4 (x86_64-emoji)              ║
-  ║  Uptime:   since the first `Hello, World!`          ║
-  ║  Shell:    zsh + 42 aliases I forget to use        ║
-  ║  Theme:    dark mode or nothing                     ║
-  ║  Editor:   whichever has the best cat emoji plugin  ║
-  ║  Fuel:     🍵 tea → ☕ coffee → 💻 code → 😴 sleep  ║
-  ╚══════════════════════════════════════════════════════╝
--->
 <div align="center">
   <a href="https://github.com/Rorschach730">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22)%3B%E5%8E%9F%E6%9D%A5%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%E9%87%8C,%E6%89%80%E6%9C%89%E7%9A%84%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87!&center=true&size=27" alt="typing" />
@@ -19,16 +6,14 @@
 
 ---
 
-```bash
-$ whoami
-```
+## 👨‍💻 `$ whoami`
 
 ```json
 {
   "name": "Rorschach",
   "role": "developer",
   "status": "actively_questioning_life_choices",
-  "languages": ["Chinese", "English", "Python", "C++", "Rust?"],
+  "languages": ["Chinese", "English", "Python", "C++", "maybe Rust one day"],
   "currently": {
     "learning": "how to name variables properly",
     "reading": "stack traces at 2am",
@@ -39,79 +24,59 @@ $ whoami
 }
 ```
 
-```c
-/* ========================= TECH STACK ========================= *
- *    tools I wield · bugs I breed · features I ship              *
- * =============================================================== */
+---
+
+## 🛠️ Tech Stack
+
+```text
+// tools I wield · bugs I breed · features I ship
 ```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,pycharm,mysql,vscode,linux,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,pycharm,mysql,vscode,linux,docker" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/methodology-meme--driven-pink?style=flat-square" alt="meme-driven" />
-  <img src="https://img.shields.io/badge/powered_by-🍵_tea-green?style=flat-square" alt="tea" />
-  <img src="https://img.shields.io/badge/bugs_created-countless-red?style=flat-square" alt="bugs" />
-  <img src="https://img.shields.io/badge/bugs_fixed-some_of_them-blue?style=flat-square" alt="fixes" />
-  <img src="https://img.shields.io/badge/code_reviews-🤔_lgtm-yellow?style=flat-square" alt="reviews" />
+  <img src="https://img.shields.io/badge/methodology-meme--driven-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/powered_by-%F0%9F%8D%B5_tea-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/bugs_created-countless-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/bugs_fixed-some_of_them-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/code_reviews-%F0%9F%A4%94_lgtm-yellow?style=flat-square" />
 </p>
 
-```python
-# ========================= GITHUB STATS ========================= #
-#  my life, quantified in green squares and bar charts
-# ================================================================ #
-```
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-      </td>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rorschach730&theme=tokyo-night&hide_border=true&area=true" alt="graph" />
-      </td>
-    </tr>
-  </table>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-```js
-// ======================== COMMIT RHYTHM ======================== //
-//   when do I push? let the data confess
-// =============================================================== //
-```
+---
+
+## 🚧 Projects
 
 ```text
-🌞 Morning      ███░░░░░░░░░░░░░░░░░░  10.4%  (please don't talk to me)
-🌆 Daytime      ████░░░░░░░░░░░░░░░░░  16.7%  (meetings. meetings never change.)
-🌃 Evening      ███████████░░░░░░░░░░░  45.8%  (the golden hours)
-🌙 Night        ███████░░░░░░░░░░░░░░░  27.1%  (one more commit... zzz)
-
-📅 Most Productive: Wednesday  (hump day hustle)
+// what I hack on when I'm not making coffee
 ```
 
-<!-- 贪吃蛇 —— 需要在你的同名仓库配置 GitHub Action 才能自动更新 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg" />
-</picture>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [tuijianxitong](https://github.com/Rorschach730/tuijianxitong) | 推荐系统 | Python |
+| [flow_matching](https://github.com/Rorschach730/flow_matching) | Flow Matching 实验 | Python |
+| [JiT-main](https://github.com/Rorschach730/JiT-main) | JiT 相关项目 | Python |
+| [Starter](https://github.com/Rorschach730/Starter) | 飞桨启航计划集训营 | Python |
+
+---
+
+## 😹 Fun Zone
 
 ```c
-/* ========================= FUN ZONE ============================ *
- *    ⚠ WARNING: the following code contains dad jokes            *
- * =============================================================== */
-```
+/* ⚠ WARNING: dad jokes ahead */
 
-```cpp
 #include <iostream>
 
 class Developer {
@@ -123,7 +88,7 @@ public:
 
 int main() {
     std::cout << "Why do programmers prefer dark mode?" << std::endl;
-    std::cout << "Because light attracts bugs! 🐛✨" << std::endl;
+    std::cout << "Because light attracts bugs!" << std::endl;
     return 0;  // I promise the segfault was not my fault
 }
 ```
@@ -145,9 +110,7 @@ int main() {
 
 ---
 
-```bash
-$ zhuanz --help
-```
+## 📬 `$ zhuanz --help`
 
 ```text
 USAGE:
@@ -157,24 +120,27 @@ OPTIONS:
   --email      📧 1027559304@qq.com
   --blog       📝 https://blog.csdn.net/weixin_42818797
   --github     💻 github.com/Rorschach730
-  --coffee     ☕ buy me one ↓ (I run on caffeine)
 
 EXAMPLES:
   $ zhuanz --collaborate "let's build something unnecessarily complex"
   $ zhuanz --chat     "tabs > spaces, fight me"
 
 This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-Especially at 3am deploys.
+but WITHOUT ANY WARRANTY; especially at 3am deploys.
 ```
 
 <p align="center">
-  <a href="https://github.com/Rorschach730"><img src="https://img.shields.io/badge/GitHub-Rorschach730-blue?logo=github&style=flat-square" alt="github" /></a>
-  <a href="https://blog.csdn.net/weixin_42818797"><img src="https://img.shields.io/badge/CSDN-weixin__42818797-red?logo=c&style=flat-square" alt="csdn" /></a>
-  <img src="https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq&style=flat-square" alt="qq" />
-  <a href="mailto:1027559304@qq.com"><img src="https://img.shields.io/badge/Email-1027559304@qq.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square" alt="views" />
+  <a href="https://github.com/Rorschach730">
+    <img src="https://img.shields.io/badge/GitHub-Rorschach730-blue?logo=github&style=flat-square" />
+  </a>
+  <a href="https://blog.csdn.net/weixin_42818797">
+    <img src="https://img.shields.io/badge/CSDN-weixin__42818797-red?style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/QQ-1027559304-green?logo=tencentqq&style=flat-square" />
+  <a href="mailto:1027559304@qq.com">
+    <img src="https://img.shields.io/badge/Email-1027559304@qq.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square" />
 </p>
 
 ---
@@ -194,5 +160,5 @@ Especially at 3am deploys.
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20your%20code%20compile%20on%20the%20first%20try%20🍀&descAlign=50&descSize=25&descAlignY=40&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20your%20code%20compile%20on%20the%20first%20try&descAlign=50&descSize=25&descAlignY=40&animation=twinkling" />
 </p>
