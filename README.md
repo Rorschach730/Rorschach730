@@ -1,20 +1,11 @@
-# ❯ ~/rorschach ████████████████████████████████████████
-
-> **🌙 This page is designed for dark mode.** Press `⌘K → "Dark mode"` if you see a white background.
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║
-║   ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██║  ██║   ║
-║   ██████╔╝██║   ██║██████╔╝███████╗██║     ███████║   ║
-║   ██╔══██╗██║   ██║██╔══██╗╚════██║██║     ██╔══██║   ║
-║   ██║  ██║╚██████╔╝██║  ██║███████║╚██████╗██║  ██║   ║
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="assets/github-hero.jpeg" width="50%" alt="Rorschach Hero" />
+</div>
 
 <div align="center">
-  <img src="assets/github-hero.jpeg" width="100%" alt="Rorschach - GitHub Hero" />
+
+[![Rorschach](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=3000&color=00FF41&center=true&vCenter=true&width=600&lines=Rorschach)](https://git.io/typing-svg)
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9D%AF+~%2Frorschach+%24+whoami;Developer+%7C+Quant+%7C+Builder;print(%22Hello%2C+World%22);%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87)](https://git.io/typing-svg)
@@ -46,7 +37,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rorschach730&theme=matrix&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rorschach730&theme=darkhub&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -55,17 +50,17 @@
 ```python
 class Rorschach:
     def __init__(self):
-        self.name       = "Rorschach"
-        self.role       = "Developer & Quant"
-        self.languages  = ["Python", "C++", "Chinese", "English"]
-        self.skills     = {
-            "ml"        : ["PyTorch", "Flow Matching", "Gen Models"],
-            "quant"     : ["GARP Strategy", "Factor Analysis", "Backtesting"],
-            "devops"    : ["Docker", "Linux", "CI/CD", "MongoDB"],
-            "tools"     : ["Git", "VS Code", "PyCharm"],
+        self.name      = "Rorschach"
+        self.role      = "Developer & Quant"
+        self.languages = ["Python", "C++", "Chinese", "English"]
+        self.skills    = {
+            "ml":       ["PyTorch", "Flow Matching", "Gen Models"],
+            "quant":    ["GARP Strategy", "Factor Analysis", "Backtesting"],
+            "devops":   ["Docker", "Linux", "CI/CD", "MongoDB"],
+            "tools":    ["Git", "VS Code", "PyCharm"],
         }
-        self.current    = "Building autonomous trading systems"
-        self.fun_fact   = "Once deleted 200 lines to fix a bug. Best day ever."
+        self.current   = "Building autonomous trading systems"
+        self.fun_fact  = "I type my own bugs. And fix them."
 
     def greet(self):
         return "❯ Hello, World! Welcome to my code dimension."
@@ -78,10 +73,9 @@ print(me.greet())
 
 ## 📊 DYNAMIC REALTIME
 
-<!-- STATS CARDS -->
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&show=reviews&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
 
@@ -119,7 +113,6 @@ print(me.greet())
 └────────────────────────────────────────────────────────┘
 ```
 
-<!-- Skill Icons -->
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
