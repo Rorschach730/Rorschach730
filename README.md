@@ -1,3 +1,5 @@
+# 👋 Hello, World!
+
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22)%3B%E5%8E%9F%E6%9D%A5%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%E9%87%8C,%E6%89%80%E6%9C%89%E7%9A%84%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87!&center=true&size=27)](https://github.com/Rorschach730)
 
 ---
