@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/github-hero.jpeg" width="50%" alt="Rorschach Hero" />
+
+[![Rorschach](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&multiline=true&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++++++R+O+R+S+C+H+A+C+H++++++++++++++++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-
-[![Rorschach](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=3000&color=00FF41&center=true&vCenter=true&width=600&lines=Rorschach)](https://git.io/typing-svg)
-
+  <img src="assets/github-hero.jpeg" width="50%" alt="Rorschach Hero" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9D%AF+~%2Frorschach+%24+whoami;Developer+%7C+Quant+%7C+Builder;print(%22Hello%2C+World%22);%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87)](https://git.io/typing-svg)
@@ -37,36 +37,29 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rorschach730&theme=darkhub&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 💻 CODE MODE
 
-```python
-class Rorschach:
-    def __init__(self):
-        self.name      = "Rorschach"
-        self.role      = "Developer & Quant"
-        self.languages = ["Python", "C++", "Chinese", "English"]
-        self.skills    = {
-            "ml":       ["PyTorch", "Flow Matching", "Gen Models"],
-            "quant":    ["GARP Strategy", "Factor Analysis", "Backtesting"],
-            "devops":   ["Docker", "Linux", "CI/CD", "MongoDB"],
-            "tools":    ["Git", "VS Code", "PyCharm"],
-        }
-        self.current   = "Building autonomous trading systems"
-        self.fun_fact  = "I type my own bugs. And fix them."
-
-    def greet(self):
-        return "❯ Hello, World! Welcome to my code dimension."
-
-me = Rorschach()
-print(me.greet())
+```text
+┌─[rorschach@terminal]─[~/workspace]──────────────────────┐
+│                                                         │
+│  $ python -c "                                           │
+│  > class Rorschach:                                      │
+│  >     '''Full-Stack Dev & Quant Researcher'''           │
+│  >     name      = 'Rorschach'                           │
+│  >     languages = ['Python', 'C++', 'Chinese', 'Eng']   │
+│  >     skills    = {                                     │
+│  >       'ml':     ['PyTorch', 'Flow Matching'],         │
+│  >       'quant':  ['GARP', 'Factors', 'Backtesting'],   │
+│  >       'devops': ['Docker', 'Linux', 'MongoDB'],       │
+│  >     }                                                 │
+│  >     current = 'Building autonomous trading systems'   │
+│  > "                                                     │
+│                                                         │
+│  ❯ Hello, World! Welcome to my code dimension.          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -75,11 +68,14 @@ print(me.greet())
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&show=reviews&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rorschach730&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rorschach730&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rorschach730&theme=2077&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rorschach730&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -171,15 +167,18 @@ print(me.greet())
 ╚══════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rorschach730&color=00FF41&style=flat-square&label=VISITORS)
+
+</div>
 
 <!--
   ═══════════════════════════════════════════════════════
   BUILT WITH:
+    - github-profile-summary-cards (vercel)
     - github-readme-stats (vercel)
-    - github-readme-streak-stats (heroku)
     - github-readme-activity-graph (vercel)
-    - github-profile-trophy (vercel)
     - readme-typing-svg (demolab)
     - shields.io badges
     - contribution-grid-snake (github actions)
