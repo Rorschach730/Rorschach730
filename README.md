@@ -8,7 +8,7 @@
   <img src="assets/github-hero.jpeg" width="50%" alt="Rorschach Hero" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9D%AF+~%2Frorschach+%24+whoami;Developer+%7C+Quant+%7C+Builder;print(%22Hello%2C+World%22);%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Time+is+not+cure+for+EVERYTHING%EF%BC%81;%E3%81%A7%E3%82%82%E3%80%81%E6%99%82%E9%96%93%E3%81%8C%E7%B5%8C%E3%81%A6%E3%81%B0%E5%88%86%E3%81%8B%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B;%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
 
 ---
 
