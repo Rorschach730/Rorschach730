@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ror-banner-v2.png" width="100%" alt="RORSCHACH" />
+  <img src="assets/ror-banner-v2.gif" width="100%" alt="RORSCHACH" />
 </div>
 
 <br>
