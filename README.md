@@ -1,5 +1,7 @@
 # ❯ ~/rorschach ████████████████████████████████████████
 
+> **🌙 This page is designed for dark mode.** Press `⌘K → "Dark mode"` if you see a white background.
+
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║
@@ -75,11 +77,11 @@ print(me.greet())
 <!-- STATS CARDS -->
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rorschach730&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rorschach730&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,7 +89,7 @@ print(me.greet())
 
 ## 🔥 ACTIVITY HEATMAP
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rorschach730&bg_color=0D1117&color=00FF41&line=00FFFF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rorschach730&bg_color=000000&color=00FF41&line=00FFFF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -185,6 +187,6 @@ print(me.greet())
     - shields.io badges
     - contribution-grid-snake (github actions)
   THEME: Cyberpunk Dark
-    bg: #0D1117 | fg1: #00FF41 | fg2: #00FFFF | accent: #FF00FF
+    bg: #000000 | fg1: #00FF41 | fg2: #00FFFF | accent: #FF00FF
   ═══════════════════════════════════════════════════════
 -->
