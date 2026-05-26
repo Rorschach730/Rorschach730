@@ -1,87 +1,190 @@
-# 👋 Hello, World!
-
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22)%3B%E5%8E%9F%E6%9D%A5%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%E9%87%8C,%E6%89%80%E6%9C%89%E7%9A%84%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87!&center=true&size=27)
-
----
-
-## About Me
-
-- **Name:** Rorschach
-- **Role:** Developer
-- **Languages:** Chinese, English, Python, C++
-- **Learning:** How to name variables properly
-- **Reading:** Stack traces at 2am
-- **Fuel:** Tea. Always tea.
-- **Fun Fact:** I once fixed a bug by deleting 200 lines. Best day ever.
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [flow_matching](https://github.com/Rorschach730/flow_matching) | Flow Matching | Python |
-| [JiT-main](https://github.com/Rorschach730/JiT-main) | JiT Project | Python |
-| [tuijianxitong](https://github.com/Rorschach730/tuijianxitong) | Recommendation System | Python |
-| [Starter](https://github.com/Rorschach730/Starter) | PaddlePaddle Bootcamp | Python |
-
----
-
-## Fun Zone
-
-> Why do programmers prefer dark mode?
->
-> Because light attracts bugs!
+# ❯ ~/rorschach ████████████████████████████████████████
 
 ```
-          ／＞    フ
-         |  _  _ |
-       ／` ミ＿xノ
-      /          |
-     /  ヽ     ﾉ
-    │    |  |  |
-  ／￣|     |  |  |
-  | (￣ヽ＿_ヽ_)__)
-  ＼二つ
+╔══════════════════════════════════════════════════════════╗
+║   ██████╗  ██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗   ║
+║   ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔════╝██║  ██║   ║
+║   ██████╔╝██║   ██║██████╔╝███████╗██║     ███████║   ║
+║   ██╔══██╗██║   ██║██╔══██╗╚════██║██║     ██╔══██║   ║
+║   ██║  ██║╚██████╔╝██║  ██║███████║╚██████╗██║  ██║   ║
+║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-  this cat has reviewed my code and found 0 issues
-  (because cats don't understand C++)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9D%AF+~%2Frorschach+%24+whoami;Developer+%7C+Quant+%7C+Builder;print(%22Hello%2C+World%22);%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87)](https://git.io/typing-svg)
+
+---
+
+## ⚡ SYSTEM STATUS
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  OPERATOR:     Rorschach                                │
+│  ROLE:         Full-Stack Developer / Quant Researcher  │
+│  STATUS:       ONLINE                                   │
+│  UPTIME:       24/7 (except when sleeping)              │
+│  FUEL:         Tea. Always tea.                         │
+│  LOCATION:     [REDACTED]                               │
+│  MISSION:      Build things that matter                 │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Contact
+## 🎮 GAME MODE
 
-- **Email:** [1027559304@qq.com](mailto:1027559304@qq.com)
-- **Blog:** [blog.csdn.net](https://blog.csdn.net/weixin_42818797)
-- **GitHub:** [github.com/Rorschach730](https://github.com/Rorschach730)
+<!-- SNAKE: eats my contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rorschach730/Rorschach730/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rorschach730&abbreviated=true&color=blue&style=flat-square)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rorschach730&theme=matrix&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-> *May your code compile on the first try, and your bugs be features in disguise*
+## 💻 CODE MODE
+
+```python
+class Rorschach:
+    def __init__(self):
+        self.name       = "Rorschach"
+        self.role       = "Developer & Quant"
+        self.languages  = ["Python", "C++", "Chinese", "English"]
+        self.skills     = {
+            "ml"        : ["PyTorch", "Flow Matching", "Gen Models"],
+            "quant"     : ["GARP Strategy", "Factor Analysis", "Backtesting"],
+            "devops"    : ["Docker", "Linux", "CI/CD", "MongoDB"],
+            "tools"     : ["Git", "VS Code", "PyCharm"],
+        }
+        self.current    = "Building autonomous trading systems"
+        self.fun_fact   = "Once deleted 200 lines to fix a bug. Best day ever."
+
+    def greet(self):
+        return "❯ Hello, World! Welcome to my code dimension."
+
+me = Rorschach()
+print(me.greet())
+```
+
+---
+
+## 📊 DYNAMIC REALTIME
+
+<!-- STATS CARDS -->
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rorschach730&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔥 ACTIVITY HEATMAP
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rorschach730&bg_color=0D1117&color=00FF41&line=00FFFF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🛠 TECH ARSENAL
+
+```
+┌─── BACKEND ────────────────────────────────────────────┐
+│  Python    ████████████████████░░░░░░  85%             │
+│  C++       ██████████████░░░░░░░░░░░░  60%             │
+│  Java      ██████████░░░░░░░░░░░░░░░░  40%             │
+└────────────────────────────────────────────────────────┘
+
+┌─── ML / AI ────────────────────────────────────────────┐
+│  PyTorch   ██████████████████░░░░░░░  80%             │
+│  Gen AI    ██████████████░░░░░░░░░░░░  65%             │
+│  Quant     ████████████████░░░░░░░░░░  70%             │
+└────────────────────────────────────────────────────────┘
+
+┌─── DEVOPS ─────────────────────────────────────────────┐
+│  Docker    ██████████████████░░░░░░░  80%             │
+│  Linux     ████████████████████░░░░░░  85%             │
+│  Git       ██████████████████████░░░░  90%             │
+└────────────────────────────────────────────────────────┘
+```
+
+<!-- Skill Icons -->
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 PROJECTS
+
+| ❯ | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 📈 | [TradingAgents-CN](https://github.com/Rorschach730/TradingAgents-CN) | AI-Powered A-Share Trading | Python, LLM, MongoDB |
+| 🧬 | [flow_matching](https://github.com/Rorschach730/flow_matching) | Flow Matching Generative Models | Python, PyTorch |
+| 🎯 | [JiT-main](https://github.com/Rorschach730/JiT-main) | Just-in-Time ML System | Python |
+| 🎓 | [tuijianxitong](https://github.com/Rorschach730/tuijianxitong) | Recommendation System | Python |
+| 🚣 | [Starter](https://github.com/Rorschach730/Starter) | PaddlePaddle Bootcamp | Python |
+
+---
+
+## 📡 CONNECT
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  📧 EMAIL    :  1027559304@qq.com                       │
+│  📝 BLOG     :  blog.csdn.net/weixin_42818797            │
+│  🐙 GITHUB   :  github.com/Rorschach730                  │
+└─────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1027559304@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=rss&logoColor=white)](https://blog.csdn.net/weixin_42818797)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rorschach730)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  SYSTEM READY.                                          ║
+║  > May your code compile on the first try,              ║
+║  > and your bugs be features in disguise.               ║
+║  > EOF                                                  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rorschach730&color=00FF41&style=flat-square&label=VISITORS)
+
+<!--
+  ═══════════════════════════════════════════════════════
+  BUILT WITH:
+    - github-readme-stats (vercel)
+    - github-readme-streak-stats (heroku)
+    - github-readme-activity-graph (vercel)
+    - github-profile-trophy (vercel)
+    - readme-typing-svg (demolab)
+    - shields.io badges
+    - contribution-grid-snake (github actions)
+  THEME: Cyberpunk Dark
+    bg: #0D1117 | fg1: #00FF41 | fg2: #00FFFF | accent: #FF00FF
+  ═══════════════════════════════════════════════════════
+-->
