@@ -8,7 +8,7 @@
   <img src="assets/github-hero.jpeg" width="50%" alt="Rorschach Hero" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Time+is+not+cure+for+EVERYTHING%EF%BC%81;%E3%81%A7%E3%82%82%E3%80%81%E6%99%82%E9%96%93%E3%81%8C%E7%B5%8C%E3%81%A6%E3%81%B0%E5%88%86%E3%81%8B%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B;%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=FBBF24&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Time+is+not+cure+for+EVERYTHING%EF%BC%81;%E3%81%A7%E3%82%82%E3%80%81%E6%99%82%E9%96%93%E3%81%8C%E7%B5%8C%E3%81%A6%E3%81%B0%E5%88%86%E3%81%8B%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B;%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
 
 ---
 
@@ -42,24 +42,24 @@
 ## 💻 CODE MODE
 
 ```text
-┌─[rorschach@terminal]─[~/workspace]──────────────────────┐
-│                                                         │
-│  $ python -c "                                           │
-│  > class Rorschach:                                      │
-│  >     '''Full-Stack Dev & Quant Researcher'''           │
-│  >     name      = 'Rorschach'                           │
-│  >     languages = ['Python', 'C++', 'Chinese', 'Eng']   │
-│  >     skills    = {                                     │
-│  >       'ml':     ['PyTorch', 'Flow Matching'],         │
-│  >       'quant':  ['GARP', 'Factors', 'Backtesting'],   │
-│  >       'devops': ['Docker', 'Linux', 'MongoDB'],       │
-│  >     }                                                 │
-│  >     current = 'Building autonomous trading systems'   │
-│  > "                                                     │
-│                                                         │
-│  ❯ Hello, World! Welcome to my code dimension.          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌─[rorschach@terminal]─[~/workspace]──────────────────┐
+│                                                      │
+│  $ python -c "                                        │
+│  > class Rorschach:                                   │
+│  >     '''Full-Stack Dev & Quant Researcher'''        │
+│  >     name      = 'Rorschach'                        │
+│  >     languages = ['Python', 'C++', 'Chinese', 'Eng']│
+│  >     skills    = {                                  │
+│  >       'ml':     ['PyTorch', 'Flow Matching'],      │
+│  >       'quant':  ['GARP', 'Factors', 'Backtesting'],│
+│  >       'devops': ['Docker', 'Linux', 'MongoDB'],    │
+│  >     }                                              │
+│  >     current = 'Building autonomous trading systems'│
+│  > "                                                  │
+│                                                      │
+│  ❯ Hello, World! Welcome to my code dimension.       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -73,9 +73,9 @@
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rorschach730&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rorschach730&theme=2077&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&hide=prs,issues&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&bg_color=000000&title_color=FBBF24&text_color=F59E0B&icon_color=FBBF24&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Rorschach730)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=00FF41&text_color=00FFFF&hide_border=true&border_radius=10)](https://github.com/Rorschach730)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=FBBF24&text_color=F59E0B&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Rorschach730)
 
 </div>
 
