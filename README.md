@@ -13,6 +13,10 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+  <img src="assets/github-hero.jpeg" width="100%" alt="Rorschach - GitHub Hero" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9D%AF+~%2Frorschach+%24+whoami;Developer+%7C+Quant+%7C+Builder;print(%22Hello%2C+World%22);%E6%B5%AE%E7%94%9F%E4%B8%87%E7%89%A9%2C+%E6%89%80%E6%9C%89%E9%87%8D%E9%80%A2%E9%83%BD%E4%B8%8D%E5%A6%82%E7%9B%B8%E9%81%87)](https://git.io/typing-svg)
 
 ---
