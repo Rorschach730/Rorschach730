@@ -75,22 +75,15 @@
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rorschach730&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rorschach730&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rorschach730&theme=2077&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rorschach730&show_icons=true&count_private=true&bg_color=000000&title_color=FBBF24&text_color=F59E0B&icon_color=FBBF24&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Rorschach730)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorschach730&layout=compact&langs_count=8&bg_color=000000&title_color=FBBF24&text_color=F59E0B&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Rorschach730)
+[![Contributions](https://streak-stats.demolab.com?user=Rorschach730&theme=dark&hide_border=true&background=000000&stroke=FBBF24&ring=FBBF24&fire=FBBF24&currStreakNum=F59E0B&sideNums=F59E0B&currStreakLabel=FBBF24&sideLabels=FBBF24&dates=F59E0B)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🔥 ACTIVITY HEATMAP
+## 🔥 CONTRIBUTION TIMELINE
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rorschach730&bg_color=000000&color=00FF41&line=00FFFF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Chart](https://ghchart.rshah.org/Rorschach730)](https://github.com/Rorschach730)
 
 ---
 
